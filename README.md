@@ -1,1 +1,1 @@
-# phishing-classifier
+# Phising-Classifier
